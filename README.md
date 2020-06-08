@@ -11,3 +11,4 @@ Llistat de treballs de sistemes de representació avançada.
 [Minimalissimo] (https://fidelgc.github.io/p9-minimalissimo/)
 [img trocejada] (https://fidelgc.github.io/p10-img-trocejada/)
 [Made by fieldwork] (https://fidelgc.github.io/p11-madebyfieldwork/)
+[Proba extraordinaria] (https://fidelgc.github.io/proba_extraordinaria/)
